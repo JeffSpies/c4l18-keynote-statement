@@ -277,10 +277,7 @@ unprofessional behavior.
 * Jer Thorp
 * Emily Gore
 * Jeffrey Spies
-* Rachel Frick
-* Amanda Visconti
-* William Denton
-* Jon Stroop
+* Your Name
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
