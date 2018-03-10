@@ -279,6 +279,7 @@ unprofessional behavior.
 * Jeffrey Spies
 * Rachel Frick
 * William Denton
+* Test test
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
