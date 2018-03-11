@@ -281,6 +281,7 @@ unprofessional behavior.
 * Amanda Visconti
 * William Denton
 * Jon Stroop
+* test
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
